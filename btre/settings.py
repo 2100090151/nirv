@@ -28,6 +28,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = ['nirvanaa-production.up.railway.app']
 
+
 # Application definition
 
 INSTALLED_APPS = [
