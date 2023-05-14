@@ -26,7 +26,7 @@ SECRET_KEY = '%k$)@g-na_%h@^&od@g_cf+8-@c2wzph0a-k0#g8l#@elrq=w='
 DEBUG = True
 
 
-ALLOWED_HOSTS = ['.vercel.app', '.now.sh']
+ALLOWED_HOSTS = ['nirvanaa-production.up.railway.app']
 
 # Application definition
 
